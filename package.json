@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/stawberri/saucenao-node#readme",
   "dependencies": {
-    "form-data": "^2.1.4"
+    "form-data": "^2.1.4",
     "file-type": "16.5.4"
   }
 }
